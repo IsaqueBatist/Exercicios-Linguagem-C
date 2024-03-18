@@ -1,0 +1,17 @@
+1.Faça um programa que peça ao usuário para inserir sua idade e, em seguida, exiba a idade em meses.
+
+2.Escreva um programa que calcule e exiba a média de três números inseridos pelo usuário.
+
+3.Crie um programa que solicite ao usuário a distância em quilômetros e, em seguida, converta e exiba a distância equivalente em milhas. 1 quilômetro é aproximadamente igual a 0,621371 milhas.
+
+4.Faça um programa que solicite ao usuário uma distância em metros e, em seguida, converta e exiba a distância equivalente em pés. 1 metro é aproximadamente igual a 3,28084 pés.
+
+5.Escreva um programa que peça ao usuário para inserir um volume em galões e, em seguida, converta e exiba o volume equivalente em litros. 1 galão é igual a aproximadamente 3,78541 litros.
+
+6.Crie um programa que peça ao usuário o número de horas regulares e o número de horas extras trabalhadas, juntamente com as taxas de pagamento para ambas as categorias. Calcule e exiba o salário total incluindo horas extras (se houver).
+
+7.Escreva um programa que solicite ao usuário o salário mensal e calcule o salário anual com base nesse valor. Considere que um ano tem 12 meses.
+
+8.Escreva um programa que solicite ao usuário o salário atual de um funcionário e o percentual de aumento. Calcule e exiba o novo salário após o aumento.
+
+9.Desenvolva um programa que solicite ao usuário um valor principal, a taxa de juros e o período de tempo em anos. Calcule e exiba o valor final com juros simples.

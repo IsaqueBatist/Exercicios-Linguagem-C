@@ -1,0 +1,7 @@
+Desenvolva uma aplicação que receba:
+
+Quantidade de homens.
+Quantidade de mulheres.
+Quantidade de crianças.
+
+Baseado nessas informações, criar uma lista de compra para um churrasco com 10 itens. A duração do churrasco será de 4 horas. Leve em consideração o tempo do churrasco, também contem que, homens bebem mais que mulheres, exiba o quantidade em peso ou volume doque deve ser comprado, ex: 200g de farinha. Evite também exibir quantidades que não fazem sentido, como por exemplo: 1.50 de latinhas de cerveja, arredonde para cima.
