@@ -5,4 +5,4 @@
 
 Lembrando que as soluções propostas não são necessáriamente a única respotas, é importante que você tente fazer e não copie. Vou atualizar as listas e projetos que me forem passados aqui.
 
-Mais uma observação, recomendo que use o [C++](https://bloodshed.net/) para resolver os exercícios.
+Mais uma observação, recomendo que use o [DEVC++](https://bloodshed.net/) para resolver os exercícios.
