@@ -1,0 +1,10 @@
+Esta lista está Separada em:
+1 Exercícios com Inteiros - 25ex
+2 Exercícios com Repetições Encaixadas - 8ex
+3 Exercícios com Reais - 12ex
+4 Exercícios com Funções - Parte I - 7ex
+5 Exercícios com Funções - Parte II -6ex
+6 Exercícios com Vetores - 18ex
+7 Exercícios com Matrizes - 15ex
+8 Exercícios com Funções - Parte III - 25
+9 Exercícios Complementares - 8ex
