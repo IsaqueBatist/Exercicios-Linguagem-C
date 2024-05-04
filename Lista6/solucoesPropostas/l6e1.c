@@ -10,9 +10,23 @@ int main()
     for (i=1;i<=altura;i++)
     {
         if(i==1){
-            printf("\t*\n");
-        }else {
-            printf("\t");
+                if(altura>9 && altura<17){
+                    printf("\t\t*\n");
+                } else if(altura>17){
+                    printf("\t\t\t*\n");
+                } else {
+                    printf("\t*\n");
+
+                }
+        }else{
+            if(altura>9 && altura < 17){
+                printf("\t\t");
+            } else if (altura>17){
+                printf("\t\t\t");
+            } else {
+                printf("\t");
+            }
+
             for(j= -i+2;j<=i;j++)
             {
                 if(j == -i+2)
@@ -33,7 +47,14 @@ int main()
     }
     for(k=0;k<altura; k++)
     {
-        printf("\t*\n");
+        if(altura>9&& altura<17){
+             printf("\t\t*\n");
+        } else if(altura>17){
+            printf("\t\t\t*\n");
+        } else {
+            printf("\t*\n");
+        }
+
     }
 
 
