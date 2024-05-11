@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Barbosa/Desktop/Projetos/Exerc-cios-Linguagem-C/Projetos/PorjetoAviao/resoluçãoProposta",
-      "program": "c:/Users/Barbosa/Desktop/Projetos/Exerc-cios-Linguagem-C/Projetos/PorjetoAviao/resoluçãoProposta/build/Debug/outDebug",
+      "cwd": "c:/Users/Barbosa/Desktop/Projetos/Exerc-cios-Linguagem-C/Lista7/SolucoesPropostas",
+      "program": "c:/Users/Barbosa/Desktop/Projetos/Exerc-cios-Linguagem-C/Lista7/SolucoesPropostas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -11,6 +11,7 @@ int main()
 {
     int escolha=0;
     float num1,num2, valor;
+
     while(escolha!=5)
     {
         printf("\n\tCALCULADORA\n");
@@ -21,6 +22,12 @@ int main()
         printf("\t[5]Sair\n");
         printf("Sua esoclha: ");
         scanf("%i", &escolha);
+
+         while(escolha<1 || escolha>5){
+             printf("Escolha invalida!!!\n Escolha novamente: ");
+             scanf("%i", &escolha);
+        }
+
         if(escolha==5){
             break;
         }
@@ -31,13 +38,6 @@ int main()
         printf("\nSegundo Numero: ");
         scanf("%f", &num2);
 
-
-
-        while(escolha<1 || escolha>5)
-        {
-         printf("Escolha invalida!!!\n Escolha novamente: ");
-         scanf("%i", &escolha);
-        }
 
         switch(escolha)
         {

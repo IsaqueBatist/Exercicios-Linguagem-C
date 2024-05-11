@@ -5,18 +5,20 @@ No final, exibir:  o maior número;  a média aritmética dos números. */
 
 int main()
 {
-    int i, maior, media, soma=0, contador=0, controle, num;
+    int i, controle;
+    float media, num,  soma=0, contador, maior;
+
     printf("\tDigite 1 para continuar e 2 para Parar\n");
 
     printf("Digite um numero: ");
-    scanf("%i", &num);
+    scanf("%f", &num);
     soma+= num;
     contador++;
     maior= num;
 
     do{
         printf("Digite um numero: ");
-        scanf("%i", &num);
+        scanf("%f", &num);
         if(num > maior){
             maior= num;
         }
@@ -33,8 +35,8 @@ int main()
 
     media= soma/contador;
 
-    printf("O maior numero e: %i\n ", maior);
-    printf("A media entre os numeros e: %i", media);
+    printf("O maior numero e: %.2f\n ", maior);
+    printf("A media entre os numeros e: %.2f", media);
 
 
     return 0;

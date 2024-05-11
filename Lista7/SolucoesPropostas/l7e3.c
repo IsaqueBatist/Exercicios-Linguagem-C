@@ -6,12 +6,16 @@
 int main()
 {
     int notaModulo1, notaModulo2, media;
+
+    //Nota 1
     printf("Digite a nota do 1 Modulo: ");
     scanf("%i", &notaModulo1);
     while(notaModulo1<0 || notaModulo1>10){
         printf("ERRO,  digite uma nota entre 0 e 10\n");
         scanf("%i", &notaModulo1);
     }
+
+    //Nota 2
     printf("Digite a nota do 2 Modulo: ");
     scanf("%i", &notaModulo2);
     while(notaModulo2<0 || notaModulo2>10){

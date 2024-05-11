@@ -10,11 +10,12 @@ int main()
 {
     int jose=0,maria=0,joao=0, branco=0, nulo=0,opcao=1, maior=0, totalEleitores=0;
     float porcentual;
+
     while(opcao!=0)
     {
 
-        printf("\tELEICOES ITU");
-        printf("\tSeu voto:\n");
+        printf("\tELEICOES ITU\n");
+        printf("Seu voto:\n");
         printf("[1] Jose\n");
         printf("[2] Maria\n");
         printf("[3] Joao\n");

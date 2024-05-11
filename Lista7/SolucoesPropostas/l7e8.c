@@ -24,7 +24,7 @@ int main()
     printf("final do Intervalo: ");
     scanf("%i", &finalIntervalo);
 
-    printf("numeros divisiveis por %i no intervalo de %i a %i: ", numero, inicioIntervalo, finalIntervalo);
+    printf("numeros divisiveis por %i no intervalo de %i a %i: \n", numero, inicioIntervalo, finalIntervalo);
     for(i=inicioIntervalo;i<=finalIntervalo;i++){
         if(i%numero==0){
             printf("%i ", i);
