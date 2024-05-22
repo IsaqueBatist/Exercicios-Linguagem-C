@@ -10,10 +10,12 @@
  + [lista 5](Lista5/enunciados.md)
  + [lista 6](Lista6/enunciado.md)
  + [Lista7](Lista7/enunciados.md)
+ + [Lista8](Lista8/enunciado.md)
  #### Projetos
  + [ProjetoAviao](Projetos/PorjetoAviao/enunciado.md)
  + [ProjetoChurrasco](Projetos/ProjetoChurrasco/Enunciado.md)
  + [ProjetoPrimos](Projetos/PronetoPrimos/enunciado.md)
+ + [ProjetoVetor](Projetos/ProjetoVetor/Enunciado.md)
  
  #### Exercícios Exteriores à faculdade
  + [InterFatecs](https://github.com/Maryvictor/interfatecs-material)
