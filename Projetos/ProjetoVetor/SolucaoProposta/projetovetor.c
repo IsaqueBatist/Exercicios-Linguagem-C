@@ -2,15 +2,15 @@
 /*
 Criar dois vetores inteiros de 10 elementos.
 
-    Receber e armazenar no vetor1 somente valores positivos enquanto o usuário desejar, limitado a 10 valores.
-    Receber e armazenar no vetor2somente valores positivos enquanto o usuário desejar, limitado a 10 valores.
+    Receber e armazenar no vetor1 somente valores positivos enquanto o usuï¿½rio desejar, limitado a 10 valores.
+    Receber e armazenar no vetor2somente valores positivos enquanto o usuï¿½rio desejar, limitado a 10 valores.
 
-    O usuário poderá digitar de 0 a 10 valores para cada vetor.
-    Dessa forma o vetor 1 poderá guardar mais ou menos valores comparado com o vetor 2.
-    Em ambos os vetores,  no máximo 10 valores poderão ser armazenados e no mínimo 0.
-    Observe que o tamanho do vetor sempre será 10, independente da quantidade de valores armazenados.
+    O usuï¿½rio poderï¿½ digitar de 0 a 10 valores para cada vetor.
+    Dessa forma o vetor 1 poderï¿½ guardar mais ou menos valores comparado com o vetor 2.
+    Em ambos os vetores,  no mï¿½ximo 10 valores poderï¿½o ser armazenados e no mï¿½nimo 0.
+    Observe que o tamanho do vetor sempre serï¿½ 10, independente da quantidade de valores armazenados.
 
-    Verificar a quantidade de valores iguais, na mesma posição, em ambos os vetores.
+    Verificar a quantidade de valores iguais, na mesma posiï¿½ï¿½o, em ambos os vetores.
     Mostrar essa quantidade:
 
     Exemplo 1:
@@ -29,13 +29,16 @@ int main()
 {
     int vetor1[10];
     int vetor2[10];
-    int num, contador=0, i;
+    int num=-2, contador=0, i;
 
     printf("\tPara parar de digitar valores no vetor, digite 0\n");
 
     for(i=0; i<10; i++){
-        printf("\nValor para a posicao %i do vetor1: ", i);
-        scanf("%i", &num);
+        do{
+            printf("\nValor para a posicao %i do vetor1: ", i);
+            scanf("%i", &num);
+        }while(num<0);
+
 
         if(num==0){
             break;
@@ -44,8 +47,10 @@ int main()
         }
     }
     for(i=0; i<10; i++){
-        printf("\nValor para a posicao %i do vetor2: ", i);
-        scanf("%i", &num);
+        do{
+            printf("\nValor para a posicao %i do vetor2: ", i);
+            scanf("%i", &num);
+        }while(num<0);
 
         if(num==0){
             break;
