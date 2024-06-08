@@ -11,6 +11,7 @@
  + [lista 6](Lista6/enunciado.md)
  + [Lista7](Lista7/enunciados.md)
  + [Lista8](Lista8/enunciado.md)
+ + [Lista9](Lista9/enunciado.md)
  #### Projetos
  + [ProjetoAviao](Projetos/PorjetoAviao/enunciado.md)
  + [ProjetoChurrasco](Projetos/ProjetoChurrasco/Enunciado.md)
@@ -29,5 +30,5 @@
 
 Lembrando que as soluções propostas não são necessáriamente a única respotas, é importante que você tente fazer e não copie. Vou atualizar as listas e projetos que me forem passados aqui.
 
-Mais uma observação, recomendo que use o [DEVC++](https://bloodshed.net/) para resolver os exercícios.
+Mais uma observação, recomendo que use o [CodeBlocks](https://sourceforge.net/projects/codeblocks/) para resolver os exercícios.
 
