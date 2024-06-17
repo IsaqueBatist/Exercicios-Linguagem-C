@@ -12,11 +12,14 @@
  + [Lista7](Lista7/enunciados.md)
  + [Lista8](Lista8/enunciado.md)
  + [Lista9](Lista9/enunciado.md)
+ + [Lista10](Lista10/enunciado.md)
  #### Projetos
  + [ProjetoAviao](Projetos/PorjetoAviao/enunciado.md)
  + [ProjetoChurrasco](Projetos/ProjetoChurrasco/Enunciado.md)
  + [ProjetoPrimos](Projetos/PronetoPrimos/enunciado.md)
  + [ProjetoVetor](Projetos/ProjetoVetor/Enunciado.md)
+ + [ProjetoEstacionamento](Projetos/ProjetoEstacionanmento/enuncadio.md)
+ + [ProjetoPalindrome](Projetos/ProjetoPalindrome/enunciado.md)
  
  #### Exercícios Exteriores à faculdade
  + [InterFatecs](https://github.com/Maryvictor/interfatecs-material)
